@@ -1,0 +1,12 @@
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.csproj.AssemblyReference.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.Form1.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.Properties.Resources.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.csproj.GenerateResource.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.csproj.CoreCompileInputs.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\bin\Debug\stationery.mdf
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\bin\Debug\stationery_log.ldf
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\bin\Debug\exam_demo.cs.exe.config
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\bin\Debug\exam_demo.cs.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\bin\Debug\exam_demo.cs.pdb
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\exam_demo.cs\exam_demo.cs\obj\Debug\exam_demo.cs.pdb

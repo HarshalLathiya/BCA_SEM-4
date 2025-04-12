@@ -1,0 +1,13 @@
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\bin\Debug\First.exe.config
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\bin\Debug\First.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\bin\Debug\First.pdb
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.Form1.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.Properties.Resources.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.csproj.GenerateResource.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.pdb
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\obj\Debug\First.Calculator.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\bin\Debug\mydatabase.mdf
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\First\First\bin\Debug\mydatabase_log.ldf
