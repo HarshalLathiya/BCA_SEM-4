@@ -1,0 +1,12 @@
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\bin\Debug\showroom.mdf
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\bin\Debug\showroom_log.ldf
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\bin\Debug\showroom.cs.exe.config
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\bin\Debug\showroom.cs.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\bin\Debug\showroom.cs.pdb
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.csproj.AssemblyReference.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.Form1.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.Properties.Resources.resources
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.csproj.GenerateResource.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.csproj.CoreCompileInputs.cache
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.exe
+G:\BCA_SEM-4\SEM_4_PRACTICAL\B_416_C#\Win_Application\showroom.cs\showroom.cs\obj\Debug\showroom.cs.pdb

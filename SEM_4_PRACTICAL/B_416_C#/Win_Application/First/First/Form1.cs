@@ -159,11 +159,12 @@ namespace First
         private void button3_Click(object sender, EventArgs e)
         {
             Con.Open();
-            SqlCommand cmd = new SqlCommand("INSERT INTO INFOTABLE VALUES('" + textBox1.Text + "', '" + textBox2.Text + "', '" + textBox3.Text + "', '" + textBox4.Text + "')", Con);
+            SqlCommand cmd = new SqlCommand("INSERT INTO INFOTABLE VALUES('" + textBox1.Text + "', '" + textBox2.Text + "', '" + textBox3.Text + "', '" + textBox4.Text + "','"+label4.Text+"')", Con);
             cmd.ExecuteNonQuery();
             Con.Close();
 
             MessageBox.Show("Data Inserted Successfully");
+            button6.PerformClick();
         }
         //update Button
         private void button4_Click(object sender, EventArgs e)
@@ -172,12 +173,14 @@ namespace First
             SqlCommand cmd = new SqlCommand("UPDATE INFOTABLE SET First_name = '" + textBox1.Text +
                                             "', Middle_name = '" + textBox2.Text +
                                             "', Last_name = '" + textBox3.Text +
+                                            "', Gender = '" + label4.Text +
                                             "', Age = '" + textBox4.Text +
                                             "' WHERE Id = '" + textBox5.Text + "'", Con);
             cmd.ExecuteNonQuery();
             Con.Close();
 
             MessageBox.Show("Data Updated Successfully");
+            button6.PerformClick();
         }
 
         //Select Button
@@ -202,7 +205,7 @@ namespace First
             cmd.ExecuteNonQuery();
             Con.Close();
             MessageBox.Show("Data Deleted Successfully");
-
+            button6.PerformClick();
         }
         // Reset identity seed
         private void button7_Click(object sender, EventArgs e)
@@ -218,8 +221,8 @@ namespace First
             resetCmd.ExecuteNonQuery();
 
             Con.Close();
-
             MessageBox.Show("All data deleted and ID reset to 1.");
+            button6.PerformClick();
         }
     }
 }
