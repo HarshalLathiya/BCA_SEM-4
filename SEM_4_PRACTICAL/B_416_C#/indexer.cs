@@ -1,62 +1,33 @@
 using System;
 
-class MyArray
-{
-    // Declare an array to store values
-    private int[] arr = new int[5];
+class StudentNames {
+    private string[] names = new string[5];
 
-    // Define the indexer property to access elements of the array using the index
-    public int this[int index]
+    // Define an indexer
+    public string this[int index]
     {
-        // Get the value at the specified index
         get
         {
-            if (index >= 0 && index < arr.Length)
-            {
-                return arr[index];
-            }
-            else
-            {
-                Console.WriteLine("Index out of bounds!");
-                return -1; // Return -1 if the index is out of range
-            }
+            return names[index];
         }
-
-        // Set the value at the specified index
         set
         {
-            if (index >= 0 && index < arr.Length)
-            {
-                arr[index] = value;
-            }
-            else
-            {
-                Console.WriteLine("Index out of bounds!");
-            }
+            names[index] = value;
         }
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Create an instance of the MyArray class
-        MyArray myArray = new MyArray();
+class Program {
+    static void Main() {
+        StudentNames students = new StudentNames();
 
-        // Using the indexer to set values at specific indices
-        myArray[0] = 10;
-        myArray[1] = 20;
-        myArray[2] = 30;
-        myArray[3] = 40;
-        myArray[4] = 50;
+        // Using indexer to set values
+        students[0] = "Mihir";
+        students[1] = "Harshal";
+        students[2] = "Varshil";
 
-        for (int i = 0; i < 5; i++)
-        {
-            Console.WriteLine("Value at index " + i + ": " + myArray[i]);
-        }
-
-        // Attempting to access an invalid index (this will be handled inside the indexer)
-        Console.WriteLine("Value at index 5: " + myArray[5]);
+        // Using indexer to get values
+        Console.WriteLine("Student at index 0: " + students[0]);
+        Console.WriteLine("Student at index 1: " + students[1]);
     }
 }
